@@ -1,0 +1,11 @@
+---
+layout: default
+title: 首页
+---
+
+{% for interview in site.posts limit:10 %}
+	<article class="interviewee">
+		{% include summary.html %}
+	</article>
+{% endfor %}
+

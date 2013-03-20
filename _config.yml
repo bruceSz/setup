@@ -1,0 +1,6 @@
+markdown: kramdown
+permalink: interviews/:title.html
+exclude: [Rakefile, README.md, wares]
+
+kramdown:
+  auto_ids: false
