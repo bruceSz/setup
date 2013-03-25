@@ -1,0 +1,63 @@
+---
+layout: interview
+slug: midare
+title: "midare"
+summary: "Art Worker (TorriACG)"
+categories: [art, web, mac, piano]
+---
+
+### 简要介绍一下自己，并且谈谈正在做什么？
+
+我叫乱序，因为名称被一个已长期不发言的网友占用，在微博上以[@乱序_midare](http://weibo.com/midarekanade)为名，midare是日语中 乱 的训读，也作为英文ID使用。
+
+我在[中国传媒大学](http://www.cuc.edu.cn)动画与数字艺术学院的数字媒体艺术（网络多媒体方向）就读，为授课内容水分之高而苦恼，但也热爱自己的专业，预计从事前端或App开发的工作，希望早日拿出说得出口的作品，也长期为自己的怠惰感到惭愧。
+
+自高中以来，我一直在自学钢琴，以古典音乐和ACG音乐为主要演奏内容，也是个人听且仅听的两个风格的音乐，一直想要学习简单的扒谱或者编曲。
+
+### 你使用的硬件有？
+
+在高中时期一点一点地以类似特修斯之船的方式偷偷地升级台式机，唯一值得一提的是，因为购买的无数 USB-MIDI 设备都出现了踏板信号输入无效的问题，购入了[M-Audio Audiophile 2496][audiophile-2496] 声卡，其有可扩展的 MIDI 接口，同时可 ASIO，大大方便了电钢琴的录音。是否带 MIDI 接口，也将是以后个人购入外置声卡的硬性标准。
+
+在高考之后终于有了第一个笔记本，[Macbook Pro with Retina Display][macbook-pro]（15吋），8G 内存及 512GB 的 SSD。在笔记本后陆续购置了 [Apple Keyboard][apple-keyboard]、[Apple Magic Mouse][magic-mouse]以及为了扫雷与 CS:GO 购买的，偶尔使用的[微软舒适曲线桌面套装 3000][comfort-curve-desktop-3000]
+
+移动设备方面，正在使用[iPod touch 5 32G][ipod-touch]（艾滋红色）、[iPad mini 32G][ipad-mini] + Cellular（白色）并与之搭配的 [Smart Cover][ipad-mini-smart-cover]（艾滋红色）、以及曾经的旗舰 [HTC Desire HD][desire-hd]，因无法体验 4.0+ 的安卓，而考虑购入新机，目前在 HTC One 与 Sony Xperia Z 之间徘徊。
+
+曾经使用的移动设备有第一个智能机 [Nokia 5800XM][5800xm]、难以忘怀其流畅滑动的 [HTC HD2][hd2]、几乎首发时购入的[iPad 1 16G][ipad]，还有已经牺牲的[iPod classic 120G][ipod-classic]（黑色）。
+
+游戏方面，在小学期间相继入手 [Game Boy Color](http://amzn.com/B00000J97G)（透明紫色）以及 [Game Boy Advance SP](http://amzn.com/B0002TB4CW)（钴蓝色），在小学最后一年近乎首发的购买了 [PSP 1000](psp)、因为周围小同学都用 NDS 连马车而在一年后购买了 [NDS](http://amzn.com/B00078ZGTA)（黑色）、在初中继续沉迷掌机期间购买了对应的升级版本 [PSP 2000](http://amzn.com/B000UA0LXQ)（银色）与 [iDSL](http://amzn.com/B000I10PY2)（黑色），同时因为一念之差错过 PS3 选择了 [Wii][wii]。自高中脱离传统游戏圈，暂时没有购入 3DS 与 PSV 的计划，也不大打算购入新主机。
+
+耳机方面，现在正在使用铁三角 [ATH-ES88](http://www.amazon.cn/dp/B0065V7ZKG) 与不带线控的 [Apple EarPods](http://store.apple.com/cn/product/MD827FE/A)，第一个购买的耳机是森海塞尔 [PX-100](px-100)，之后相继购入了铁三角 [ATH-EC7](http://amzn.com/B00286JJOM) 以及 [German Maestro GMP 160](http://amzn.com/B002LVUKDS)。电钢目前使用惠威 [D1010-IV 2.0](http://www.amazon.cn/dp/B0058QMRCK)作为输出。
+
+乐器方面，主力是 [Roland RD-700NX][rd-700nx]。在中考之后不慎购买的 [Yamaha YU-128DS](http://yamaha.com.cn/products/musical-instruments/pianos/uprightpiano/yu_series/YU128DS.html) 目前长期处于弃置状态，第一台电钢是即将被 P105 替代的 [Yamaha P-95B](http://yamaha.com.cn/products/musical-instruments/keyboards/digitalpianos/p_series/P-95B.html)，当然还有在幼儿园时期启蒙时购买的 [Yamaha PSR330](http://usa.yamaha.com/products/musical-instruments/keyboards/digitalkeyboards/portable_keyboards/psr330/)。
+
+摄影方面，只有一台不经常使用的继承自爸爸的尼康 [D90][d90]。
+
+其他值得一提的小物件有 SanDisk [CZ80 16GB USB3.0](http://www.amazon.cn/dp/B007YXA5S8) U盘、TP-LINK [TL-WR703N](http://www.amazon.cn/dp/B005J29SSE) 便携路由器、[Celluon Magic Cube](http://amzn.com/B005ES6E6W) 无线投射键盘以及将要到货的 [Leap Motion](https://www.leapmotion.com/)。
+
+### 你使用的软件有？
+
+大部分时间使用 [Mac OS X][mac-os-x]，偶尔在其上使用 [Parallels][parallels-desktop] 虚拟机运行[Windows 8][windows-8]。
+
+使用 [Keka][keka] 进行解压缩、[搜狗拼音输入法][sogou-pinyin]进行输入，同时长期使用 [QQ][tecent-qq] 进行聊天。
+
+为 [iTunes][itunes] 的爱好者，为整理专辑封面、歌曲信息等乐此不疲，为CD盗版比例之高而感到惭愧，同时也在努力尝试购买喜欢的喜欢音乐的正版。使用 [Music Converter Pro][musicconverter-pro]进行 Flac/APE 到 wav 的转换，并使用 [DAEMON Tools Lite][daemon-tools-lite] 虚拟光驱。使用 [MplayerX][mplayerx] 进行视频播放。
+
+使用 [WhatPulse](http://www.whatpulse.org/) 以及 [Timing](http://timingapp.com/) 进行电脑运行状态统计。
+
+在 [Steam][steam] 购买 [Portal 系列][portal]并曾沉迷于创意工坊中的自制地图。买过 [Minecraft][minecraft]，但是没有精力继续下去。
+
+使用 [Chrome][chrome] 浏览器，在 Chrome 打开太多窗口时使用 [Safari][safari]。使用 [fakeThunder](http://martianz.cn/fakethunder/) 进行离线下载。
+
+在 iOS 与 OSX 上均使用 [Reeder][reeder] 阅读 Google Reader、使用 [Mail] [mail] 收发邮件，曾经使用 [iSSH](http://macserve.org.uk/projects/issh/) 进行科学上网的 SSH 连接。
+
+使用 [SourceTree][sourcetree] 进行 git 项目管理、使用 [Sublime Text 2][sublime-text-2] 进行代码编辑。
+
+长期使用 [Keynote][keynote]、[Pages][pages] 作为学校日常上课展示及作业报告制作工具，[Photoshop][photoshop] 以及 [Illustrator][illustrator] 作为海报、Logo等传统平面设计工具。
+
+在2013年新年割肉购买了 [Adobe Creative Suite 6 Master Collection](http://www.adobe.com/cn/products/creativesuite/mastercollection.html)，目的是为了其中的 [Flash Builder][flash-builder] 来编写 [Action Script](http://www.adobe.com/cn/devnet/actionscript.html)以及联机调试。
+
+正在学习 [Python][python]。
+
+### 你梦想中的设备是怎么样的？
+
+1080P或1920*1200的iPhone。我真不想像现在这样带三个设备（只是方便使用软件很多的touch、只是用来上网的mini和只是用来打电话的Desire HD）出门了……
