@@ -37,7 +37,7 @@ module Jekyll
 				
 			end
 
-			Jekyll::MarkdownConverter.new(@config).convert(content.strip)
+			Jekyll::Converters::Markdown.new(@config).convert(content.strip)
 		end
 	end
 end
