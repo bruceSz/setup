@@ -14,7 +14,7 @@ categories: [developer, web, python, windows]
 
 ### 你使用的硬件有？
 
-常年在 09 年产的 [Acer Aspire 5739G][acer-aspire-5739g] 上挣扎，不断更新大件小件，添加各种外置设备，妄图再战 3 年。内存扩大到 4G，外接了一台 [Dell U2311H][dell-u2311h]。因集成声卡加电即有杂音，用外置 [Musiland Monitor 01 Mini][musiland-monitor-01-mini] 解决。今年用 [Crucial M4][crucial-m4] 替换了主硬盘。
+常年在 09 年产的 [Acer Aspire 5739G][acer-aspire-5739g] 上挣扎，不断更新大件小件，添加各种外置设备，妄图再战 3 年。内存扩大到 4G，外接了一台 [Dell U2311H][dell-u2311h]。因集成声卡加电即有杂音，用外置 [Musiland Monitor 01 Mini][musiland-monitor-01-mini] 解决。2013 年用 [Crucial M4][crucial-m4] 替换了主硬盘。2014 年淘汰回家。
 
 在 [MX2](mx2) 到货前，一直死守在 [HTC Touch 2][htc-t3333] 的 [Windows Mobile 6.5][windows-mobile-65] 上，饱尝被时代抛弃之苦。
 
@@ -22,13 +22,15 @@ categories: [developer, web, python, windows]
 
 乐器的话，学校有一台 [YAMAHA P-155][yamaha-p155]，家里有一台老古董 [YAMAHA PSR-530][yamaha-psr530]。
 
-13 年 9 月入手 [Macbook Air 13'][macbook-air]，心满意足。
+2013 年 9 月入手 [Macbook Air 13'][macbook-air]，心满意足。
+
+2014 年购置了 [HP Proliant Microserver G7 N54L](www8.hp.com/cn/zh/products/proliant-servers/product-detail.html?oid=4248009) 当作 NAS 和开发机。
 
 ### 你使用的软件有？
 
-因为 [Foobar2000][foobar2000] 和 [QQ][tecent-qq] 常年沉迷于 Windows。目前已跟进到 [Windows 8][windows-8]，用 [MacType][mactype] 改善字体渲染效果。用 [Thunderbird][thunderbird] 收发邮件。用 [有道词典](http://cidian.youdao.com/]) 背单词。
+因为 [Foobar2000][foobar2000] 和 [QQ][tecent-qq] 常年沉迷于 Windows。目前已跟进到 [Windows 8][windows-8]，用 [MacType][mactype] 改善字体渲染效果。用 [Foxmail][foxmail] 收发邮件。用 [有道词典](http://cidian.youdao.com/]) 背单词。
 
-因语法喜好和 Windows 亲和性在 Ruby 和 [Python][python] 间选择了后者。[Qt][qt] 学习中。编辑器是安了少量插件的 [Sublime Text 2][sublime-text-2]，也用 [Notepad++][notepad-plusplus] 修改单个的文件。
+因语法喜好和 Windows 亲和性在 Ruby 和 [Python][python] 间选择了后者。编辑器是安了少量插件的 [Sublime Text 2][sublime-text-2]，也用 [Notepad++][notepad-plusplus] 修改单个的文件。
 
 订阅了一年 [MS Office 365][office]，不知道之后怎么办。
 
@@ -38,6 +40,4 @@ categories: [developer, web, python, windows]
 
 ### 你梦想中的设备是怎么样的？
 
-手持设备：彩色 E-ink 带可选背光，响应速度要足够高，且有可忍受的续航时间，远离一天两充电。
-
-可达到磁盘速度的千兆无线网存储设备。
+手持彩色 E-ink 设备带可选背光，响应速度要足够高，且有可忍受的续航时间，远离一天两充电。
