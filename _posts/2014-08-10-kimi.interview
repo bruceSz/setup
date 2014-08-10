@@ -1,0 +1,43 @@
+---
+layout: interview
+slug: kimi
+title: "キーミ"
+summary: "Full Stack Engineer"
+categories: [developer, web, python, gamut]
+---
+
+### 简要介绍一下自己，并且谈谈正在做什么？
+
+我是小 kimi，目前于某不知名互联网公司，任职 Web 前端兼后端兼数据挖掘兼运维兼 DBA。
+
+沉迷于拒绝产品的各种需求中，屡战屡败。
+
+### 你使用的硬件有？
+
+2009 年配的 4000 块的台机二手 E8400（后换），4G 内存 640G + 160G（别人用剩下的）硬盘，9600GT 显卡，22 寸好小的显示器一台。
+
+笔记本也是 09 年买的 [Acer Aspire 4736zg](http://detail.zol.com.cn/notebook/index189737.shtml) 。
+
+爪机必须是弱鸡鸭 [5320xm](http://detail.zol.com.cn/cell_phone/index142146.shtml) 。
+
+工作电脑 i5 4570+8g内存+集显+四台e5服务器+其实还有两台 96g 24核 cpu 的机子可以随便用。
+
+乐器的话 n 把小提琴（n>=5）。
+
+### 你使用的软件有？
+
+**操作系统：**
+
+家里台机 [Windows 7][windows-7]
+
+自用本本 [Windows 8][windows-8] + [Ubuntu 14.04][ubuntu]
+
+工作电脑 [Windows 7][windows-7] + 四台 [CentOS][centos] + 一台虚拟机 [Debian][debian]。
+
+**软件：**
+
+[阿贴便笺](https://help.gnome.org/users/tomboy/stable/index.html.zh_CN)，[Sublime Text2][sublime-text-2]，[PyCharm](http://www.jetbrains.com/pycharm/)，[VirtualBox][virtualbox]，[Chrome][chrome]，[Hangout](https://www.google.com/+/learnmore/hangouts/)，[QQ][tecent-qq]
+
+### 你梦想中的设备是怎么样的？
+
+可以不需要虚拟化就运行 Windows 游戏，Xbox 游戏，PS 游戏并且 fps 永远不低于 60 的神奇设备。
